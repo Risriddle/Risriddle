@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi,<br>👯 I'm currently learning Django<br>🤝 My hobbies include Reading , Drawing and Dancing<br>🌱 I like to solve problems and fix errors <br>💬 I am into space and astronomy<br>⚡ Fun fact: Curious by nature
+🔭 Hi,<br>👯 I'm currently learning Next js<br>🤝 My hobbies include Reading , Drawing and Dancing<br>🌱 I like to solve problems and fix errors <br>💬 I am into space and astronomy<br>⚡ Fun fact: Curious by nature
 
 
 # 💻 Tech Stack:
