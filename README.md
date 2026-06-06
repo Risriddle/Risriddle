@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 Hi,<br>👯 I'm currently learning Next js<br>🤝 My hobbies include Reading , Drawing and Dancing<br>🌱 I like to solve problems and fix errors <br>💬 I am into space and astronomy<br>⚡ Fun fact: Curious by nature
+# 💫 About Me
+
+👋 Full Stack Web & Android Developer
+
+🚀 Building web apps, mobile apps, and backend systems
+
+🛠️ Passionate about problem-solving and debugging
+
+🌌 Space & astronomy enthusiast
+
+🎨 Reading • Drawing • Dancing
+
+⚡ Always curious, always learning
+
 
 
 # 💻 Tech Stack:
